@@ -1,5 +1,6 @@
 # cinefix
 
-El proyecto está realizado con bootstrap 5.3.0-alpha3.
+![alt text](https://github.com/fgpons/cinefix/tree/master/img/cinefix-screenshot.png)
 
-<img src="https://github.com/fgpons/cinefix/tree/master/img/cinefix-screenshot.png">
+
+El proyecto está realizado con bootstrap 5.3.0-alpha3.
